@@ -1,4 +1,6 @@
 Práctica – Utilidades de Archivos en C
+
+
 Integrantes
 
 Nombre: Yuliana Corrales Castaño
@@ -7,7 +9,9 @@ Correo: yuliana.corralesc@udea.edu.co
 
 Documento: 
 
-Otros integrantes:
+Nombre: Hellen Rubio
+
+
 
 Descripción del Proyecto
 
@@ -142,11 +146,10 @@ Resultado: se genera un archivo comprimido.
 Prueba wunzip
 ./wunzip archivo.z
 
-Resultado: se obtiene nuevamente el contenido original del archivo.
+Resultado: se obtiene nuevamente el contenido original del archivo
+.
 
-Enlace al Video de Sustentación
-
-Agregar aquí el enlace al video de explicación del proyect0:
+Enlace al Video de Sustentación:
 
 https://youtube.com/...
 
