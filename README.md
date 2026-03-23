@@ -7,7 +7,7 @@ Nombre: Yuliana Corrales Castaño
 Correo: yuliana.corralesc@udea.edu.co
 Documento: 39193015
 
-Nombre: Hellen Rubio
+Nombre: Hellen Jakeline Rubio Casas
 Correo: hellen.rubio@udea.edu.co
 Documento: 1001686406
 
@@ -120,8 +120,7 @@ Resultado: se obtiene nuevamente el contenido original del archivo
 
 Enlace al Video de Sustentación:
 
-https://youtube.com/...
-
+https://youtu.be/-pwciEa5U_U
 
 
 Manifiesto de Transparencia – Uso de IA
